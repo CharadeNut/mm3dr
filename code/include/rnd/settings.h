@@ -260,6 +260,7 @@ namespace rnd {
 
     u8 shuffleRewards;
     u8 shuffleGreatFairyRewards;
+    u8 shufflePiecesOfHeart;
     u8 linksPocketItem;
     u8 shuffleSongs;
     u8 tokensanity;
